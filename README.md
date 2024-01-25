@@ -19,6 +19,5 @@ This code provides a basic structure for managing employee data, calculating ave
 Question - 2
 This code uses the NumPy library to create a random vector of 20 numbers uniformly distributed between 1 and 20. It then reshapes this vector into a 4x5 matrix. The code identifies the maximum value in each row of the matrix and replaces those values with 0. Finally, it prints the original random vector and the modified 4x5 matrix. The purpose of setting the maximum values to 0 is not explicitly stated in the code.
 
-Video link: https://drive.google.com/file/d/1WDMp0a-
-pow5nkOM2BfBK7uGPP3Tu3yp3/view?usp=drive_link
+Video link: https://drive.google.com/file/d/1WDMp0a-pow5nkOM2BfBK7uGPP3Tu3yp3/view?usp=drive_link
 
